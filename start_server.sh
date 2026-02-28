@@ -1,0 +1,1 @@
+uv run scripts/serve_policy.py policy:checkpoint --policy.config=pi0_agilex --policy.dir=checkpoints/pi0_agilex/pi0_pick_beverage_1218/99999
